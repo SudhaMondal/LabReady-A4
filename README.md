@@ -84,7 +84,7 @@ No frameworks, no build step, no dependencies.
 
 ---
 
-## 🛠️ How We Built It
+## 🛠️ How I Built It
 
 The project was planned as four small milestones, each shipped as its own PR:
 
