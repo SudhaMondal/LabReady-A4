@@ -4,15 +4,14 @@
 
 **Turn lab photos, plots and sketches into clean, print-ready A4 pages in seconds.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0a5c8a?style=for-the-badge)](https://YOUR-USERNAME.github.io/labready-a4/)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![No Backend](https://img.shields.io/badge/Backend-None-success)
-![Works Offline](https://img.shields.io/badge/Works-Offline-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+![HTML5](https://img.shields.io/badge/Markup-HTML5-orange?style=flat)
+![CSS3](https://img.shields.io/badge/Styling-CSS3-blue?style=flat)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=flat)
+![Backend](https://img.shields.io/badge/Backend-None-green?style=flat)
+![Offline](https://img.shields.io/badge/Works-Offline-green?style=flat)
+![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages-lightgrey?style=flat)
+![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat)
 
 </div>
 
@@ -127,7 +126,7 @@ Design choices: everything lives in a single file so anyone can deploy it by upl
 ## ▶️ How to Run the Project
 
 **Option 1: Use it online**
-Open the live link: `https://YOUR-USERNAME.github.io/labready-a4/`
+Open your GitHub Pages link: `https://YOUR-USERNAME.github.io/labready-a4/`
 
 **Option 2: Run locally**
 ```bash
@@ -154,7 +153,7 @@ Contributions are welcome. Open an issue to suggest a preset or feature, then se
 
 ## 📄 License
 
-MIT License. Free to use, modify and share.
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
