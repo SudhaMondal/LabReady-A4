@@ -18,13 +18,6 @@
 
 ---
 
-## 👀 Preview
-
-<!-- Add a screenshot: save it as docs/preview.png in your repo, then this line shows it. -->
-![LabReady A4 preview](docs/preview.png)
-
----
-
 ## 📌 What is this project?
 
 **LabReady A4** is a small browser tool for students and lab researchers. You drop in your oscilloscope waveforms, MATLAB plots, circuit diagrams, or phone photos of hand-drawn sketches, and it arranges them on a true-to-scale **A4 sheet (210 × 297 mm)**. You can then print it or save it as a PDF, cut the pieces out along dotted lines, and paste them into your lab record.
@@ -152,16 +145,6 @@ python3 -m http.server 8000
 2. Go to **Settings → Pages**.
 3. Set Source to **Deploy from a branch**, Branch `main`, folder `/ (root)`, then **Save**.
 4. Your site goes live after about a minute.
-
----
-
-## 🎬 Demo Video
-
-<!--
-Easiest way: edit this README on github.com, drag your .mp4 file into the editor,
-and GitHub inserts a playable link automatically. Or use a YouTube link as below.
--->
-[![Watch the demo](docs/preview.png)](https://YOUR-VIDEO-LINK)
 
 ---
 
