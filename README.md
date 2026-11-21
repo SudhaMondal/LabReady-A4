@@ -13,6 +13,8 @@
 ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat)
 
+🔗 **[Open the Live App](https://sudhamondal.github.io/LabReady-A4/)** &nbsp;|&nbsp; 📦 **[View the Repository](https://github.com/SudhaMondal/LabReady-A4)** &nbsp;|&nbsp; 🐞 **[Report an Issue](https://github.com/SudhaMondal/LabReady-A4/issues/new)**
+
 </div>
 
 ---
@@ -25,18 +27,20 @@
 
 It needs no sign-up, no server and no install. It is a single `index.html` file that runs entirely in your browser, even offline.
 
+👉 **[Try it now](https://sudhamondal.github.io/LabReady-A4/)**
+
 ---
 
 ## 🧰 Technologies Used
 
 | Technology | Used for |
 | --- | --- |
-| **HTML5** | Page structure, file input, `<dialog>` for the help popup |
-| **CSS3** | Real millimetre units (`mm`), `@page { size: A4 }` and `@media print` rules, dark mode via `prefers-color-scheme` |
-| **Vanilla JavaScript** | App logic, drag/resize, packing algorithm |
-| **Canvas API** | Image cleanup filter (pixel-level processing) |
-| **Pointer Events** | Dragging and resizing with mouse, touch or pen |
-| **GitHub Pages** | Free hosting |
+| **[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)** | Page structure, file input, `<dialog>` for the help popup |
+| **[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)** | Real millimetre units (`mm`), `@page { size: A4 }` and `@media print` rules, dark mode via `prefers-color-scheme` |
+| **[Vanilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** | App logic, drag/resize, packing algorithm |
+| **[Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)** | Image cleanup filter (pixel-level processing) |
+| **[Pointer Events](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events)** | Dragging and resizing with mouse, touch or pen |
+| **[GitHub Pages](https://pages.github.com/)** | Free hosting |
 
 No frameworks, no build step, no dependencies.
 
@@ -84,7 +88,7 @@ No frameworks, no build step, no dependencies.
 
 ---
 
-## 🛠️ How I Built It
+## 🛠️ How We Built It
 
 The project was planned as four small milestones, each shipped as its own PR:
 
@@ -111,6 +115,8 @@ Design choices: everything lives in a single file so anyone can deploy it by upl
 
 ## 🚀 How It Could Be Improved
 
+Have an idea? **[Open an issue](https://github.com/SudhaMondal/LabReady-A4/issues/new)** or send a **[pull request](https://github.com/SudhaMondal/LabReady-A4/pulls)**.
+
 - [ ] University header and lab templates
 - [ ] Notebook-size grid presets (A5, ruled-notebook margins)
 - [ ] Multi-page sheets
@@ -126,35 +132,49 @@ Design choices: everything lives in a single file so anyone can deploy it by upl
 ## ▶️ How to Run the Project
 
 **Option 1: Use it online**
-Open your GitHub Pages link: `https://sudhamondal.github.io/labready-a4/`
+👉 [https://sudhamondal.github.io/LabReady-A4/](https://sudhamondal.github.io/LabReady-A4/)
 
 **Option 2: Run locally**
+
+Download the code as a **[ZIP file](https://github.com/SudhaMondal/LabReady-A4/archive/refs/heads/main.zip)**, unzip it, and double-click `index.html`.
+
+Or clone it with Git:
 ```bash
-git clone https://github.com/YOUR-USERNAME/labready-a4.git
-cd labready-a4
+git clone https://github.com/SudhaMondal/LabReady-A4.git
+cd LabReady-A4
 ```
-Then double-click `index.html`, or serve it locally:
+Then open `index.html`, or serve it locally (needs [Python](https://www.python.org/downloads/)):
 ```bash
 python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
 **Option 3: Deploy your own copy on GitHub Pages**
-1. Fork or upload `index.html` to a public repository.
-2. Go to **Settings → Pages**.
+1. **[Fork this repository](https://github.com/SudhaMondal/LabReady-A4/fork)**.
+2. In your fork, go to **Settings → Pages** (the URL looks like `https://github.com/YOUR-USERNAME/LabReady-A4/settings/pages`).
 3. Set Source to **Deploy from a branch**, Branch `main`, folder `/ (root)`, then **Save**.
-4. Your site goes live after about a minute.
+4. Your site goes live after about a minute at `https://YOUR-USERNAME.github.io/LabReady-A4/`.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome. Open an issue to suggest a preset or feature, then send a small PR with one change and a screenshot.
+Contributions are welcome.
+1. **[Fork the repo](https://github.com/SudhaMondal/LabReady-A4/fork)** and create a branch for one change.
+2. Make your change and test it in a browser.
+3. Open a **[pull request](https://github.com/SudhaMondal/LabReady-A4/pulls)** with a short description and a screenshot.
+
+Found a bug or want a new preset? **[Create an issue](https://github.com/SudhaMondal/LabReady-A4/issues/new)**.
 
 ## 📄 License
 
-This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache License 2.0**. See the **[LICENSE](https://github.com/SudhaMondal/LabReady-A4/blob/main/LICENSE)** file for details.
+
+## 👩‍💻 Author
+
+**Sudha Mondal**
+[GitHub](https://github.com/SudhaMondal) · [LinkedIn](https://www.linkedin.com/in/i-am-sudha-mondal)
 
 ---
 
-<div align="center">Made for every student who has ever fought with Word margins before a lab submission. ⭐ Star the repo if it saved you time!</div>
+<div align="center">Made for every student who has ever fought with Word margins before a lab submission. ⭐ <a href="https://github.com/SudhaMondal/LabReady-A4">Star the repo</a> if it saved you time!</div>
