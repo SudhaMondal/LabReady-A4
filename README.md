@@ -126,7 +126,7 @@ Design choices: everything lives in a single file so anyone can deploy it by upl
 ## ▶️ How to Run the Project
 
 **Option 1: Use it online**
-Open your GitHub Pages link: `https://YOUR-USERNAME.github.io/labready-a4/`
+Open your GitHub Pages link: `https://sudhamondal.github.io/labready-a4/`
 
 **Option 2: Run locally**
 ```bash
